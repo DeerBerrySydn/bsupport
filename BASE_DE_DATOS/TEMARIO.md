@@ -13,3 +13,8 @@ Druración: 70hrs
 * Funciones en SQL.
 * Triggers en SQL
 * Consultas en SQL
+
+
+https://www.db-fiddle.com/f/s2XtVy1sHGtxsGWc1DKiCV/0
+
+![image](https://user-images.githubusercontent.com/91554777/170420761-fea600e7-c12b-48f7-ab5c-40da42c1e56f.png)
